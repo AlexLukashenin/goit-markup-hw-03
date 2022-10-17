@@ -96,7 +96,7 @@ a {
   padding-bottom: 32px;
 }
 .site-nav .link:hover,
-*/ .site-nav .link:focus {
+.site-nav .link:focus {
   color: var(--accent-text-color);
 }
 .site-nav .link.current {
